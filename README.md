@@ -4,6 +4,8 @@
 
 ## Due date: 22-06-2026
 
+### To access the assignment, please [click here](https://classroom.github.com/a/xrisH8xh), accept the assignment and begin working through it.
+
 **Do not change the signature (definition) of the functions in the exercise.**
 
 **Tests are run with `pytest`. It's time to learn how to use it :)**
